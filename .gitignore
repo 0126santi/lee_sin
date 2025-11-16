@@ -1,0 +1,46 @@
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# IDE/editor folders
+.vscode/
+.history/
+.idea/
+*.code-workspace
+
+# Node/Frontend common (in case you add tooling later)
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+.tmp/
+
+# Env and secrets
+.env
+.env.*
+*.local
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Mac/Windows clutter
+Icon?
+._*
