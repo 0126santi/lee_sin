@@ -1,11 +1,6 @@
-# Lee Sin — Portfolio Project
+# Lee Sin web
 
-Sitio web estático dedicado a Lee Sin (League of Legends), con páginas para su historia, habilidades, aspectos y algunos consejos de juego. Pensado para publicar en GitHub como parte de tu portafolio.
-
-## Demo local
-
-- Abre `index.html` directamente en el navegador, o
-- Usa Live Server en VS Code para recarga automática.
+Sitio web estático dedicado a Lee Sin (League of Legends), con páginas para su historia, habilidades, aspectos y algunos consejos de juego.
 
 ## Estructura
 
@@ -21,8 +16,7 @@ Sitio web estático dedicado a Lee Sin (League of Legends), con páginas para su
 ├── assets/
 │   ├── backgorund/     # Fondos (nombre intencional para coincidir con rutas)
 │   ├── lee/            # Iconos/GIFs de habilidades
-│   └── skins/          # Imágenes de aspectos
-└── ads.txt             # (Opcional) archivo para AdSense
+│   └── skins/          # Imágenes de aspectos             
 ```
 
 ## Tecnologías
